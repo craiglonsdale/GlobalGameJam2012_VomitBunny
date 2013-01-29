@@ -38,6 +38,7 @@ class ScreenOverlay extends PostEffectsBase {
 			Graphics.Blit (source, destination);
 			return;
 		}
+		//overlayMaterial.color = fadeColor;
 		overlayMaterial.SetFloat ("_Intensity", intensity);
 		overlayMaterial.SetTexture ("_Overlay", texture);
 		Graphics.Blit (source, destination, overlayMaterial, blendMode);

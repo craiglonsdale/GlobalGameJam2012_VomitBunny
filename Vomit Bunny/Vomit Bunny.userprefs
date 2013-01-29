@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Image Effects (Pro Only)\ScreenOverlay.js">
+    <Files>
+      <File FileName="Assets\Scripts\Runner.cs" Line="185" Column="29" />
+      <File FileName="Assets\Scripts\StartEndGate.cs" Line="14" Column="11" />
+      <File FileName="Assets\Scripts\SpikeTrap.cs" Line="28" Column="13" />
+      <File FileName="Assets\Scripts\VisibilityScript.cs" Line="8" Column="12" />
+      <File FileName="Assets\GG2013 Assets\SpewEmitter.cs" Line="16" Column="3" />
+      <File FileName="Assets\Scripts\BloodSpray.cs" Line="39" Column="63" />
+      <File FileName="Assets\Scripts\Menu.cs" Line="16" Column="34" />
+      <File FileName="Assets\Scripts\Player.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BuzzSawTrap.cs" Line="51" Column="5" />
+      <File FileName="Assets\Scripts\HeartBeatSound.cs" Line="17" Column="1" />
+      <File FileName="Assets\Standard Assets\Image Effects (Pro Only)\ScreenOverlay.js" Line="42" Column="52" />
+      <File FileName="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\BlendModesOverlay.shader" Line="59" Column="5" />
+      <File FileName="Assets\GoreController.cs" Line="23" Column="27" />
+      <File FileName="Assets\Scripts\Fader.js" Line="31" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Baz\Desktop\GlobalGameJam2013_VomitBunny\Vomit Bunny\Assets\MainCharacter.cs" line="18" />
+      <Breakpoint file="C:\Users\Baz\Desktop\GlobalGameJam2013_VomitBunny\Vomit Bunny\Assets\MainCharacter.cs" line="16" />
+      <Breakpoint file="C:\Users\Avidan\Documents\GitHub\GlobalGameJam2013_VomitBunny_stents\Vomit Bunny\Assets\VisibilityScript.cs" line="3" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

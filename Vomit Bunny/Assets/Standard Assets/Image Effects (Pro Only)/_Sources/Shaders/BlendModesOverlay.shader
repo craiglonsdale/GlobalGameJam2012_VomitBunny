@@ -67,7 +67,7 @@ if (Target <= ½) R = (2xTarget) x Blend
 			result =  check * (half3(1,1,1) - ( (half3(1,1,1) - 2*(color.rgb-0.5)) *  (1-m.rgb))); 
 			result += (1-check) * (2*color.rgb) * m.rgb;
 		
-		return half4(lerp(color.rgb, result.rgb, (_Intensity)), color.a);
+		return half4(lerp(color.rgb, result.rgb, (_Intensity)), (float)color.a / 255.0f * _Intensity);
 	}
 	
 	half4 fragAlphaBlend (v2f i) : COLOR {
